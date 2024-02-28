@@ -1,0 +1,2 @@
+Color Swatches
+I have added Color Swatches in Product Grid in Collection page as well as other Product Grid where ever in the store

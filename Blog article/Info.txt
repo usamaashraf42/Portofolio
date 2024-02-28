@@ -1,0 +1,2 @@
+Blog,Article templates
+Make Blog, Article and Category template same like figma design that was provided. https://starkhair.com/blogs/blog

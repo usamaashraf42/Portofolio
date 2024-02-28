@@ -1,0 +1,2 @@
+Sticky Add To Cart & Cart Drawer
+I have create Sticky Add To Cart in Product Page in mobile that is shown in bottom and Develop Custom Cart Drawer according to reference design.
