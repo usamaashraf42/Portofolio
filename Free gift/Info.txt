@@ -1,0 +1,2 @@
+Free gift
+When customer buy a main product then free gift (Product) add into cart with single quantiy	
